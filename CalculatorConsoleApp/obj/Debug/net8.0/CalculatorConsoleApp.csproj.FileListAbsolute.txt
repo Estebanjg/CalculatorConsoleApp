@@ -1,0 +1,14 @@
+D:\Projects_Folder\C#\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\net8.0\CalculatorConsoleApp.exe
+D:\Projects_Folder\C#\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\net8.0\CalculatorConsoleApp.deps.json
+D:\Projects_Folder\C#\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\net8.0\CalculatorConsoleApp.runtimeconfig.json
+D:\Projects_Folder\C#\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\net8.0\CalculatorConsoleApp.dll
+D:\Projects_Folder\C#\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\net8.0\CalculatorConsoleApp.pdb
+D:\Projects_Folder\C#\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net8.0\CalculatorConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects_Folder\C#\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net8.0\CalculatorConsoleApp.AssemblyInfoInputs.cache
+D:\Projects_Folder\C#\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net8.0\CalculatorConsoleApp.AssemblyInfo.cs
+D:\Projects_Folder\C#\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net8.0\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+D:\Projects_Folder\C#\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net8.0\CalculatorConsoleApp.dll
+D:\Projects_Folder\C#\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net8.0\refint\CalculatorConsoleApp.dll
+D:\Projects_Folder\C#\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net8.0\CalculatorConsoleApp.pdb
+D:\Projects_Folder\C#\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net8.0\CalculatorConsoleApp.genruntimeconfig.cache
+D:\Projects_Folder\C#\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net8.0\ref\CalculatorConsoleApp.dll
