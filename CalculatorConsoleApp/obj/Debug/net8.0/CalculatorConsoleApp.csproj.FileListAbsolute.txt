@@ -12,3 +12,4 @@ D:\Projects_Folder\C#\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net8.0
 D:\Projects_Folder\C#\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net8.0\CalculatorConsoleApp.pdb
 D:\Projects_Folder\C#\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net8.0\CalculatorConsoleApp.genruntimeconfig.cache
 D:\Projects_Folder\C#\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net8.0\ref\CalculatorConsoleApp.dll
+D:\Projects_Folder\C#\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net8.0\CalculatorConsoleApp.sourcelink.json
