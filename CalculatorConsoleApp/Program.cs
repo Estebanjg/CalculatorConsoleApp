@@ -21,13 +21,13 @@ namespace CalculatorConsoleApp
             
             num2 = Convert.ToInt32(Console.ReadLine()); //Casts 2nd input (String) to Int
 
-            Console.WriteLine("What operation would you like to perform? ");
-            Console.WriteLine("Please enter the operation symbol: ");
-
-            operation = Convert.ToChar(Console.ReadLine());
-
             while(IO == true)
             {
+                Console.WriteLine("What operation would you like to perform? ");
+                Console.WriteLine("Please enter the operation symbol: ");
+
+                operation = Convert.ToChar(Console.ReadLine());
+                
                 if (operation == '+')
                 {
                     result = num1 + num2;
